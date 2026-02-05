@@ -8,6 +8,7 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 - Livestream Main Track D.AUD Room 2026-02-02: https://www.youtube.com/watch?v=yxzghm3Fdj8
 - Livestream B-Con Room 2026-02-02: https://www.youtube.com/watch?v=nweHLZNs_jQ
 - Livestream B.1.014 Room 2026-02-02: https://www.youtube.com/watch?v=71tDyeo1Flk
+- [AI Native Infrastructure Automation: how I learned to stop worrying and love Claude](https://cfp.cfgmgmtcamp.org/ghent2026/talk/UGTUYH/) - https://www.youtube.com/watch?v=yxzghm3Fdj8&t=10718s
 
 ## Tuesday, February 3
 
