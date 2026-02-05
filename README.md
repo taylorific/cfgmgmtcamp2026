@@ -1,5 +1,5 @@
 # cfgmgmtcamp2026 - videos, slides and other resources
-Links to Configuration Management Camp 2026 videos slies and other resources.
+Links to Configuration Management Camp 2026 videos slides and other resources.
 
 Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 
