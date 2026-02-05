@@ -6,4 +6,4 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 ## Wednesday, February 4
 
 - [From Zero to Immutable Kubernetes: Your First Cluster, Step by Step](https://cfp.cfgmgmtcamp.org/ghent2026/talk/review/YHZ3AZFRJTKFD7XUUQGTSX7EL9HTU8XW)
-  Workshop Slides: https://github.com/jimmykarily/cfgmgmtcamp-kairos-workshop
+  *  Workshop Slides: https://github.com/jimmykarily/cfgmgmtcamp-kairos-workshop
