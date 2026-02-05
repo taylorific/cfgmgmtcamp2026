@@ -8,6 +8,7 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 - Livestream Main Track D.AUD Room 2026-02-02: https://www.youtube.com/watch?v=yxzghm3Fdj8
 - Livestream B-Con Room 2026-02-02: https://www.youtube.com/watch?v=nweHLZNs_jQ
 - Livestream B.1.014 Room 2026-02-02: https://www.youtube.com/watch?v=71tDyeo1Flk
+- Livestream B.1.017 Room 2026-02-02: https://www.youtube.com/watch?v=cLT8tSGXCDc
 - [AI Native Infrastructure Automation: how I learned to stop worrying and love Claude](https://cfp.cfgmgmtcamp.org/ghent2026/talk/UGTUYH/) - Adam Jacob
   * Video: https://www.youtube.com/watch?v=yxzghm3Fdj8&t=10718s
 
@@ -17,6 +18,7 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 - Livestream Main Track D.AUD Room, Part 2 2026-02-03: https://www.youtube.com/watch?v=DBxkVVrN0mA
 - Livestream B-Con Room 2026-02-03: https://www.youtube.com/watch?v=rjvP3q92Sqk
 - Livestream B.1.014 Room 2026-02-03: https://www.youtube.com/watch?v=EUz3S-Jj7MA
+- Livestream B.1.017 Room 2026-02-03: https://www.youtube.com/watch?v=oJDGZnTDWJo
 
 ## Wednesday, February 4
 
