@@ -20,6 +20,5 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 
 - Livestream Ansible Contributor Summit B.1.014 Room 2026-02-04: https://www.youtube.com/watch?v=I5-T-RuhJzY
 - Livestream Vox Populi Community Day B.1.017 Room 2026-02-04: https://www.youtube.com/watch?v=zw-C7Gb3JGo
-
 - [From Zero to Immutable Kubernetes: Your First Cluster, Step by Step](https://cfp.cfgmgmtcamp.org/ghent2026/talk/review/YHZ3AZFRJTKFD7XUUQGTSX7EL9HTU8XW)
   *  Workshop Slides: https://github.com/jimmykarily/cfgmgmtcamp-kairos-workshop
