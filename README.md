@@ -11,6 +11,8 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
 - Livestream B.1.017 Room 2026-02-02: https://www.youtube.com/watch?v=cLT8tSGXCDc
 - [AI Native Infrastructure Automation: how I learned to stop worrying and love Claude](https://cfp.cfgmgmtcamp.org/ghent2026/talk/UGTUYH/) - Adam Jacob
   * Video: https://www.youtube.com/watch?v=yxzghm3Fdj8&t=10718s
+- [On the Path to Digital Twins: Loosely Coupled Infrastructure Models](https://cfp.cfgmgmtcamp.org/ghent2026/talk/RZ8FQZ/) - Pavel Lavrenko
+  * Video: https://www.youtube.com/live/nweHLZNs_jQ&t=24250s
 
 ## Tuesday, February 3
 
