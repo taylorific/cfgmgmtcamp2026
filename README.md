@@ -13,6 +13,8 @@ Schedule: https://cfgmgmtcamp.org/ghent2026/schedule/
   * Video: https://www.youtube.com/watch?v=yxzghm3Fdj8&t=10718s
 - [On the Path to Digital Twins: Loosely Coupled Infrastructure Models](https://cfp.cfgmgmtcamp.org/ghent2026/talk/RZ8FQZ/) - Pavel Lavrenko
   * Video: https://www.youtube.com/live/nweHLZNs_jQ&t=24250s
+- [Cloud Native at the Far(m) Edge: Running Kubernetes and AI on Tractors](https://cfp.cfgmgmtcamp.org/ghent2026/talk/UYXXAQ/) - Mauro Morales and Jordan Karapanagiotis
+  * Video: https://www.youtube.com/live/nweHLZNs_jQ?t=26571s
 
 ## Tuesday, February 3
 
